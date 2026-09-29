@@ -1,0 +1,3 @@
+interface:
+  display_name: "组会汇报笔记"
+  short_description: "按近期组会记录风格生成图文结合的中文论文汇报笔记，支持单篇和批量整理"
